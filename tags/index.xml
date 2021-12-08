@@ -2,72 +2,72 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Hugo</title>
-    <link>https://hunter1085.github.com/myBlog/tags/</link>
+    <link>https://hunter1085.github.io/myBlog/tags/</link>
     <description>Recent content in Tags on Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>[Home](/) &amp;#183; Theme [Simpleness](https://github.com/RainerChiang/simpleness) Powered by [Hugo](https://gohugo.io/)</copyright>
-    <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate><atom:link href="https://hunter1085.github.com/myBlog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Sep 2019 12:13:38 +0500</lastBuildDate><atom:link href="https://hunter1085.github.io/myBlog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Markdown</title>
-      <link>https://hunter1085.github.com/myBlog/tags/markdown/</link>
+      <link>https://hunter1085.github.io/myBlog/tags/markdown/</link>
       <pubDate>Wed, 18 Sep 2019 12:13:38 +0500</pubDate>
       
-      <guid>https://hunter1085.github.com/myBlog/tags/markdown/</guid>
+      <guid>https://hunter1085.github.io/myBlog/tags/markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>image</title>
-      <link>https://hunter1085.github.com/myBlog/tags/image/</link>
+      <link>https://hunter1085.github.io/myBlog/tags/image/</link>
       <pubDate>Fri, 06 Sep 2019 12:13:36 +0530</pubDate>
       
-      <guid>https://hunter1085.github.com/myBlog/tags/image/</guid>
+      <guid>https://hunter1085.github.io/myBlog/tags/image/</guid>
       <description></description>
     </item>
     
     <item>
       <title>chinese</title>
-      <link>https://hunter1085.github.com/myBlog/tags/chinese/</link>
+      <link>https://hunter1085.github.io/myBlog/tags/chinese/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>https://hunter1085.github.com/myBlog/tags/chinese/</guid>
+      <guid>https://hunter1085.github.io/myBlog/tags/chinese/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plain</title>
-      <link>https://hunter1085.github.com/myBlog/tags/plain/</link>
+      <link>https://hunter1085.github.io/myBlog/tags/plain/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:35 +0530</pubDate>
       
-      <guid>https://hunter1085.github.com/myBlog/tags/plain/</guid>
+      <guid>https://hunter1085.github.io/myBlog/tags/plain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MathJax</title>
-      <link>https://hunter1085.github.com/myBlog/tags/mathjax/</link>
+      <link>https://hunter1085.github.io/myBlog/tags/mathjax/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>https://hunter1085.github.com/myBlog/tags/mathjax/</guid>
+      <guid>https://hunter1085.github.io/myBlog/tags/mathjax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>test</title>
-      <link>https://hunter1085.github.com/myBlog/tags/test/</link>
+      <link>https://hunter1085.github.io/myBlog/tags/test/</link>
       <pubDate>Sun, 18 Mar 2018 12:13:32 +0530</pubDate>
       
-      <guid>https://hunter1085.github.com/myBlog/tags/test/</guid>
+      <guid>https://hunter1085.github.io/myBlog/tags/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>emoji</title>
-      <link>https://hunter1085.github.com/myBlog/tags/emoji/</link>
+      <link>https://hunter1085.github.io/myBlog/tags/emoji/</link>
       <pubDate>Wed, 18 Jan 2017 02:01:58 +0530</pubDate>
       
-      <guid>https://hunter1085.github.com/myBlog/tags/emoji/</guid>
+      <guid>https://hunter1085.github.io/myBlog/tags/emoji/</guid>
       <description></description>
     </item>
     
